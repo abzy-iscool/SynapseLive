@@ -111,7 +111,6 @@ export const Navbar = () => {
               <a
                 className="contained-button pl-6 pr-8 pt-2 pb-2  flex"
                 href="https://synapsestream.netlify.app"
-                target="_blank"
               >
                 Get Started
               </a>
