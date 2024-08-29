@@ -41,7 +41,7 @@ export const Testimonials = () => (
       >
         <div className="block-subtitle text-center mb-6">Testimonials</div>
         <div className="block-big-title text-center mb-20 px-8 sm:px-24 md:px-48">
-          People like you love Tailcast
+          People like you love Synapse
         </div>
 
         <div className="flex flex-col lg:flex-row gap-8 lg:gap-5 xl:gap-10 px-6 xl:px-0 items-center">
