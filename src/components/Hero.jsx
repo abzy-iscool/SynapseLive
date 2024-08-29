@@ -49,7 +49,8 @@ export const Hero = () => {
           animate={{ opacity: 1, y: 0 }}
           transition={{ duration: 0.5, delay: 0.15 }}
         >
-          <div className="flex flex-col gap-2 sm:flex-row mt-14 mb-24 sm:mb-40 justify-center">
+          <!-- 
+         <div className="flex flex-col gap-2 sm:flex-row mt-14 mb-24 sm:mb-40 justify-center">
             <button
               className="contained-button w-64 sm:w-52 h-12 mr-0 sm:mr-4 lg:mr-6 mb-2 sm:mb-0"
               onClick={() => setIsModalOpen(true)}
@@ -63,7 +64,8 @@ export const Hero = () => {
               aria-label="Live demo"
             >
               Live demo
-            </button>
+            </button> 
+           -->
           </div>
         </motion.div>
         <motion.div
