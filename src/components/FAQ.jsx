@@ -8,9 +8,9 @@ const FAQData = [
       "Yes, you can easily upgrade or downgrade your plan at any time. Simply navigate to the account settings in your dashboard and choose the desired plan. The changes will be reflected immediately, and any adjustments in pricing will be applied on your next billing cycle. Our support team is more than happy to provide guidance and recommendations.",
   },
   {
-    question: "How to claim your 25% discount offer?",
+    question: "How many participants can join a meeting?",
     answer:
-      "To claim your 25% discount, simply sign up for an account and enter the promotional code at checkout. The discount will be applied automatically to your purchase.",
+      "The number of participants depends on your subscription plan. Our basic plan supports up to 100 participants, while premium plans can accommodate larger groups. However, we're still finalizing our pricing, so for now, the software is free to use and can handle more than 100 participants in a single call",
   },
   {
     question: "What's your refund policy?",
