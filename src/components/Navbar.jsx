@@ -69,7 +69,7 @@ export const Navbar = () => {
               href="https://synapsestream.netlify.app/"
               aria-label="Login/SignUp"
             >
-              <span className="pt-px">Login/SignUp</span>
+              <span className="pt-px">Access Synapse</span>
             </a>
           </div>
         </motion.div>
