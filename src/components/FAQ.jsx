@@ -10,7 +10,7 @@ const FAQData = [
   {
     question: "How many participants can join a meeting?",
     answer:
-      "The number of participants depends on your subscription plan. Our basic plan supports up to 100 participants, while premium plans can accommodate larger groups. However, we're still finalizing our pricing, so for now, the software is free to use and can handle more than 100 participants in a single call",
+      "The number of participants depends on your subscription plan. Our basic plan supports up to 100 participants, while premium plans can accommodate larger groups. However, we're still finalizing our pricing, so for now, the software is free to use and can handle 100 participants in a single call",
   },
   {
     question: "What's your refund policy?",
