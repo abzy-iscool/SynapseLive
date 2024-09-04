@@ -32,7 +32,10 @@ export const Hero = () => {
             <h1 className="hidden md:inline">Easy</h1>
           </div>
           <h1 className="mt-2 sm:mt-2 text-4xl sm:text-6xl lg:text-7xl xl:text-7xl font-bold tracking-wide  text-primaryText  px-8 sm:px-20 md:px-24 lg:px-24">
-            Collaboration unlocked.
+            Collaboration
+          </h1>
+          <h1 className="mt-2 sm:mt-2 text-4xl sm:text-6xl lg:text-7xl xl:text-7xl font-bold tracking-wide  animated-gradient-text  px-8 sm:px-20 md:px-24 lg:px-24">
+            Unlocked.
           </h1>
         </motion.div>
         <motion.div
