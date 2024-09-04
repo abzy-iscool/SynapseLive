@@ -22,7 +22,7 @@ export const Brands = () => (
               <h2 className="mb-2  text-4xl sm:text-5xl 2xl:text-6xl font-bold tracking-normal text-primaryText">
               Visioning a future where we collaborate 
               </h2>
-              <h2 className=" text-4xl  sm:text-5xl 2xl:text-6xl font-bold tracking-normal text-secondaryColor">
+              <h2 className=" text-4xl  sm:text-5xl 2xl:text-6xl font-bold tracking-normal text-secondaryColor animated-gradient-text">
               with global industry leaders.
               </h2>
             </div>
