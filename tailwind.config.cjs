@@ -19,6 +19,9 @@ module.exports = {
         mainBorderDarker: "rgb(255,255,255,0.07)",
         quoteIconColor: "rgb(178, 184, 205)"
       },
+      backgroundImage: {
+        'gradient-hover': 'linear-gradient(50deg, #0E78F9, #0056A0)',
+      },
       fontFamily: {
         Inter: "Inter",
       },
